@@ -4,7 +4,7 @@ import {
   AccordionItem,
   AccordionTrigger,
 } from "@/components/ui/accordion"
- 
+
 export function SamplePage() {
   return (
     <Accordion type="single" collapsible className="w-full">
